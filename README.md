@@ -56,14 +56,22 @@ bash
 Copy
 Edit
 java HospitalManagementSystem
-✨ Future Improvements
-Add a GUI interface for better usability.
 
-Connect with a database for persistent data storage.
+## ✨ **Future Improvements**
 
-Add user roles like admin, doctor, and receptionist.
+- 🖼️ **Add a GUI Interface**  
+  Enhance usability by implementing a graphical user interface using frameworks like JavaFX or Swing.
 
-📫 Contributions & Feedback
-Feel free to fork the repo and submit PRs!
-Suggestions are always welcome 🙌
+- 🗃️ **Connect with a Database**  
+  Integrate with a relational database (e.g., MySQL, PostgreSQL) to enable persistent data storage.
+
+- 🔐 **Add User Roles**  
+  Implement role-based access control for **Admin**, **Doctor**, and **Receptionist** to restrict and organize system access effectively.
+
+---
+
+## 📫 **Contributions & Feedback**
+
+Feel free to **fork the repository**, create a **pull request**, or open an **issue** to suggest improvements or report bugs.  
+We welcome contributions from developers of all skill levels! 🙌
 
